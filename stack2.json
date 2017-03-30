@@ -66,7 +66,7 @@
 							"sudo yum update\n",
 							"sudo yum -y install wget\n",
 							 "cd /tmp\n",
-							"wget http://54.202.21.87/bootchef.sh\n",
+							"wget http://54.186.212.172/bootchef.sh\n",
 							"chmod +x bootchef.sh\n",
 							"sh bootchef.sh\n",
 							"/opt/aws/bin/cfn-signal -e 0 -r \"ChefClient setup complete\" '", {
